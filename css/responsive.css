@@ -8,6 +8,7 @@ RES: < 660px
     width: 100%;
     float: none;
     display: block;
+    margin: 0 auto 40px auto;
   }
   
   .profile-photo {
