@@ -1,0 +1,256 @@
+/************************************
+GENERAL
+*************************************/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+
+/************************************
+HEADING
+*************************************/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  text-align: center;
+}
+
+h1 img {
+  width: 300px;
+}
+
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
+}
+
+
+/************************************
+NAVIGATION
+*************************************/
+
+nav {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+} 
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 700;
+  padding: 15px 10px;
+}
+
+
+
+/************************************
+FOOTER
+*************************************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+}
+
+.social-icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 15px;
+}
+
+
+
+/************************************
+PAGE: HOME
+*************************************/
+
+.pc {
+  display: block;
+  max-width: 400px;
+  margin: 0 0 0 60px;
+  border-radius: 20px;
+  float: right;
+  list-style: none;
+}
+
+.maintext {
+  margin: 2,5%;
+  line-height: 1.5;
+}
+
+
+
+/************************************
+PAGE: ABOUT
+*************************************/
+
+.profile-photo {
+  display: block;
+  max-width: 250px;
+  margin: 0 5% 80px 60px;
+  border-radius: 20px;
+  float: right;
+}
+
+
+
+/************************************
+PAGE: CONTACT
+*************************************/
+/*
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.contact-info a {
+  display: block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+}
+
+.contact-info li.phone a {
+ background-image: url("../img/phone.png"); 
+}
+
+.contact-info li.mail a {
+ background-image: url("../img/mail.png"); 
+}
+
+*/
+/************************************
+BUTTON
+*************************************/
+
+
+#button {
+  padding: 19px 39px 18px 39px;
+  color: black;
+  background-color: #99F2E8;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  border-radius: 5px;
+  width: 45%;
+  border: 1px solid #6BC6BB;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin: 20px 0 20px 0;
+  
+  
+}
+
+
+/************************************
+COLORS
+*************************************/
+
+/* site body */
+body {
+  background-color: #fff;
+  color: #444;
+}
+
+body a {
+  color: inherit;
+}
+
+/* green header */
+header {
+  background: #99F2E8;
+  border-color: #6BC6BB;
+}
+/* nav background on mobile */
+nav {
+  background: #6BC6BB;
+}
+
+/* logo text */
+h1, h2 {
+  color: black;
+}
+
+/* links */
+header a {
+  color: #4F8F87;
+}
+
+/* nav link */
+nav a, nav a:visited {
+  color: black;
+}
+
+/* selected nav link */
+nav a.selected, nav a:hover {
+  color: #413354;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
