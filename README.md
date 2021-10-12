@@ -1,6 +1,4 @@
-puffincoffee
+Puffin Coffee
 ============
-
-Puffin Coffee website
 
 http://www.puffincoffee.com
